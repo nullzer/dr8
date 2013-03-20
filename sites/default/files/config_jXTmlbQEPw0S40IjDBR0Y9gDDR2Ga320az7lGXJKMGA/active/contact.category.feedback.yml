@@ -1,0 +1,9 @@
+id: feedback
+uuid: 430edbca-85f2-4fba-b900-a7f351ebc96b
+label: 'Website feedback'
+recipients:
+  - ''
+reply: ''
+weight: '0'
+status: '1'
+langcode: und

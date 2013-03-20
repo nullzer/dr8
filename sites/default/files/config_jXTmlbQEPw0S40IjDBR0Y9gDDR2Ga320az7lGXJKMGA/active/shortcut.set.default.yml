@@ -1,0 +1,8 @@
+id: default
+uuid: 52a0d289-ff2c-48be-8606-0616326b0676
+label: Default
+links:
+  679683d5-9801-439c-a700-a25d5a2ce73e: 679683d5-9801-439c-a700-a25d5a2ce73e
+  5a113214-72a9-456d-a71e-3084c29e3b8d: 5a113214-72a9-456d-a71e-3084c29e3b8d
+status: '1'
+langcode: und

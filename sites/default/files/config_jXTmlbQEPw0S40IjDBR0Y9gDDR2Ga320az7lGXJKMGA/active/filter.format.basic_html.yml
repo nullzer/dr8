@@ -1,0 +1,41 @@
+format: basic_html
+name: 'Basic HTML'
+uuid: f76a405f-0362-462a-ac04-4d5bb1dddce6
+weight: '0'
+cache: '1'
+filters:
+  filter_html:
+    module: filter
+    status: '1'
+    weight: '-10'
+    settings:
+      allowed_html: '<a> <em> <strong> <cite> <blockquote> <code> <ul> <ol> <li> <dl> <dt> <dd> <h4> <h5> <h6> <p> <span> <img>'
+      filter_html_help: '0'
+  filter_html_image_secure:
+    module: filter
+    status: '1'
+    weight: '9'
+    settings: {  }
+  filter_htmlcorrector:
+    module: filter
+    status: '1'
+    weight: '10'
+    settings: {  }
+  filter_html_escape:
+    module: filter
+    status: '0'
+    weight: '-10'
+    settings: {  }
+  filter_autop:
+    module: filter
+    status: '0'
+    weight: '0'
+    settings: {  }
+  filter_url:
+    module: filter
+    status: '0'
+    weight: '0'
+    settings:
+      filter_url_length: '72'
+status: '1'
+langcode: und

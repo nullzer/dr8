@@ -1,0 +1,4 @@
+basic_html:
+  name: editor.editor.basic_html
+full_html:
+  name: editor.editor.full_html

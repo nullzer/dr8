@@ -1,0 +1,8 @@
+plain_text:
+  name: filter.format.plain_text
+basic_html:
+  name: filter.format.basic_html
+full_html:
+  name: filter.format.full_html
+restricted_html:
+  name: filter.format.restricted_html

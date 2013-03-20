@@ -1,0 +1,12 @@
+id: theme.bartik.mobile
+uuid: 3027c867-8302-4b07-b925-370bb909e335
+name: mobile
+label: mobile
+mediaQuery: '(min-width: 0px)'
+source: bartik
+sourceType: theme
+weight: '0'
+multipliers:
+  1x: 1x
+status: '1'
+langcode: und
